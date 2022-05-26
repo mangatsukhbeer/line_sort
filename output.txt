@@ -1,0 +1,10 @@
+Talk is cheap. Show me the code.
+Treat programmers like bad kids.
+C is quirky, flawed, and an enormous success.
+Good design adds value faster than it adds cost.
+I don't care if it works on your laptop! We can't ship your laptop!
+Perl is the only language that looks the same before and after RSA encryption.
+Don't worry if it doesn't work right. If everything did, you would be out of a job.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+A programming language is low level when its programs require attention to the irrelevant.
+FORTRAN is not a flower but a weed: it is hardy, occasionally blooms, and grows in every computer.
